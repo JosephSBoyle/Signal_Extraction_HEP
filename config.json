@@ -1,0 +1,8 @@
+{ "model_filename" : "xgb.pkl",
+  "drop_labels" : [3, 4],
+  "variables" : ["mBBres", "pTV",
+    "mVHres", "mLL", "METHT", "dEtaLL", "dPhiLL",
+       "ptL1", "ptL2", "j1e", "j1px", "j1py", "j2e", "j1pz", "j2px", "j2py",
+       "j2pz", "l1e", "l1px", "l1py", "l1pz", "l2e", "l2px", "l2py", "l2pz",
+       "EventWeight"]
+}
